@@ -1,0 +1,2 @@
+Xpath selector: //div[@class='home']//a[@class='home-top-section__button-container']/div[@class='button']
+CSS selector: .home-top-section__button-container div
